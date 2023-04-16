@@ -1,2 +1,2 @@
 # Accounting
-After running project at first form please enter admin as username and 123 as password to continue...
+This is ADO.NET WindowsForm application 
